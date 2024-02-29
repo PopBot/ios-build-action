@@ -2,7 +2,7 @@ repo_name: PopBot/ios-build-action
 report_id: 8d31b82ff4d0a5b4e8dc83394bfa7a48
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T18:57:14+00:00'
+timestamp: '2024-02-29T19:48:11+00:00'
 requested_by: yukiarrr
 provider: github
 branch: main
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/PopBot/ios-build-action
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.1.2
   license: MIT
